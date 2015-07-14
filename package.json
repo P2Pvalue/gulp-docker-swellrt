@@ -1,0 +1,22 @@
+{
+  "author": "P2Pvalue UCM team <p2pv@ucm.es> (http://p2pvalue.eu/)",
+  "name": "gulp-docker-swellrt",
+  "description": "Run Docker SwellRT instances from Gulp",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/P2Pvalue/gulp-docker-swellrt"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "hint-hint": "~0.3.0",
+    "tap": "~0.3.1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6"
+  }
+}
