@@ -10,7 +10,10 @@
   "scripts": {
     "test": "make test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gulp": ">=3",
+    "dockerode": "^2.2.1"
+  },
   "devDependencies": {
     "hint-hint": "~0.3.0",
     "tap": "~0.3.1"
