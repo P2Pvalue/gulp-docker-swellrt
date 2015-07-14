@@ -11,7 +11,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "gulp": ">=3",
+    "gulp": "*",
     "dockerode": "^2.2.1"
   },
   "devDependencies": {
