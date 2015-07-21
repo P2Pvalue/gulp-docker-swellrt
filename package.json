@@ -2,6 +2,7 @@
   "author": "P2Pvalue UCM team <p2pv@ucm.es> (http://p2pvalue.eu/)",
   "name": "gulp-docker-swellrt",
   "description": "Run Docker SwellRT instances from Gulp",
+  "keywords": ["swellrt", "docker", "gulp", "gulpplugin", "p2pvalue"],
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/P2Pvalue/gulp-docker-swellrt"
