@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "gulp": "*",
+    "gulp-util": "*",
     "dockerode": "^2.2.1"
   },
   "devDependencies": {
