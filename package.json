@@ -3,7 +3,7 @@
   "name": "gulp-docker-swellrt",
   "description": "Run Docker SwellRT instances from Gulp",
   "keywords": ["swellrt", "docker", "gulp", "gulpplugin", "p2pvalue"],
-  "version": "0.3.2",
+  "version": "0.4.0",
   "repository": {
     "url": "https://github.com/P2Pvalue/gulp-docker-swellrt"
   },
