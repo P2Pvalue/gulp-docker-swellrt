@@ -14,7 +14,8 @@
   "dependencies": {
     "gulp": "*",
     "gulp-util": "*",
-    "dockerode": "^2.2.1"
+    "dockerode": "^2.2.1",
+    "jsonparse": "*"
   },
   "devDependencies": {
     "hint-hint": "~0.3.0",
